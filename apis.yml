@@ -1,11 +1,27 @@
+aid: jdbc
 name: JDBC
-description: JDBC is a technology or concept used in computing and information technology
-  to address specific technical challenges. It provides capabilities that help practitioners
-  build, manage, or improve systems and processes in their domain.
-url: null
+description: >-
+  JDBC (Java Database Connectivity) is a Java API that defines how a client may
+  access a database. It provides methods for querying and updating data in a
+  database and is oriented towards relational databases. JDBC is part of the
+  Java Standard Edition platform, providing a standard interface for connecting
+  Java applications to databases.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-- JDBC
-created: '2025'
-modified: '2025'
+  - JDBC
+  - Java
+  - Database
+  - SQL
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/jdbc/refs/heads/main/apis.yml
+created: '2025-01-01'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://docs.oracle.com/en/java/javase/21/docs/api/java.sql/module-summary.html
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
