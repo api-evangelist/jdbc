@@ -9,9 +9,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - JDBC
-  - Java
   - Database
+  - Java
+  - JDBC
   - SQL
 url: >-
   https://raw.githubusercontent.com/api-evangelist/jdbc/refs/heads/main/apis.yml
