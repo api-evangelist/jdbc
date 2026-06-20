@@ -8,7 +8,7 @@ description: >-
   enterprise extensions in javax.sql), and every JDBC driver implements the
   Driver interface to enable database connectivity in Java applications.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Database
   - Java
