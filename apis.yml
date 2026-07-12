@@ -23,6 +23,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/jdbc-domain-security.yml
   - type: Website
     url: https://docs.oracle.com/en/java/javase/21/docs/api/java.sql/module-summary.html
   - type: Documentation
