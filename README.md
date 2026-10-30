@@ -1,4 +1,4 @@
-# JDBC (jdbc)
+# jdbc
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,37 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-JDBC (Java Database Connectivity) is a Java API that defines how a client may access a database. It provides methods for querying and updating data in a database and is oriented towards relational databases. JDBC is part of the Java Standard Edition platform via the java.sql module (with enterprise extensions in javax.sql), and every JDBC driver implements the Driver interface to enable database connectivity in Java applications.
+## jdbc on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/jdbc/refs/heads/main/apis.yml)
+Everything profiled for jdbc is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/jdbc/](https://apis.io/providers/jdbc/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Not yet rated. See [apis.io/providers/jdbc/](https://apis.io/providers/jdbc/).
 
-## Tags
+## How this profile is made
 
-- JDBC, Java, Database, SQL, Standard, java.sql
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for jdbc: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## Open an issue
 
-## Notes
-
-JDBC is a Java API specification, not a network/REST API, so no OpenAPI artifact is generated. The standard is exposed through the `java.sql` module (and `javax.sql` enterprise extensions) consumed by JVM applications. Implementations are provided by individual database vendors as JDBC drivers.
-
-## Common Properties
-
-- [Website (java.sql Module - Java SE 21)](https://docs.oracle.com/en/java/javase/21/docs/api/java.sql/module-summary.html)
-- [java.sql Package Documentation](https://docs.oracle.com/en/java/javase/21/docs/api/java.sql/java/sql/package-summary.html)
-- [Enterprise Extension - javax.sql](https://docs.oracle.com/en/java/javase/21/docs/api/java.sql/javax/sql/package-summary.html)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/jdbc/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
